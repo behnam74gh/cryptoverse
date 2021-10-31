@@ -224,6 +224,7 @@ a:hover {
 }
 .news-image-container {
   display: flex !important;
+  flex-direction: column !important;
   justify-content: space-between !important;
 }
 .news-title {
