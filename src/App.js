@@ -36,7 +36,7 @@ const App = () => {
         </Layout>
         <div className="footer">
           <Typography.Title
-            level={5}
+            level={3}
             style={{ color: "white", textAlign: "center" }}
           >
             Cryptoverse <br />
