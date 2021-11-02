@@ -133,7 +133,7 @@ a:hover {
 }
 .stats-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   gap: 40px;
 }
@@ -163,6 +163,12 @@ a:hover {
 }
 .stats {
   font-weight: 800;
+}
+.coin-value-statistics {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
 }
 .coin-value-statistics-heading p {
   font-size: 1rem;
